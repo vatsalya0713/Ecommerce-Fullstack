@@ -29,4 +29,12 @@ A **Fullstack Ecommerce Application** with separate **Frontend (Ecomm-UI)** and 
 ---
 
 ## 📂 Project Structure
-
+Ecommerce-Fullstack/
+├─ Ecomm-backend/ # Spring Boot backend
+│ ├─ src/
+│ ├─ pom.xml
+│ └─ ...
+└─ Ecomm-UI/ # Frontend (html,css,javaScript)
+├─ src/
+├─ index.html
+└─ ...
