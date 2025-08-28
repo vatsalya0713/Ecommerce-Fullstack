@@ -27,9 +27,14 @@ A **Fullstack Ecommerce Application** with separate **Frontend (Ecomm-UI)** and 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ---
-
 ## 📂 Project Structure
+
 Ecommerce-Fullstack/
 ├─ Ecomm-backend/ # Spring Boot backend
-└─ Ecomm-UI/ # Frontend (HTML,CSS,JAVASCRIPT)
-
+│ ├─ src/
+│ ├─ pom.xml
+│ └─ ...
+└─ Ecomm-UI/ # Frontend (HTML, CSS, JavaScript)
+├─ src/
+├─ index.html
+└─ ...
